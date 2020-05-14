@@ -21,7 +21,7 @@ for i in range(1,count+1):
     rev=ls[::-1]
         
 print(rev)
-
+#dont know what have you done here 
 
 #2)
 
@@ -74,7 +74,7 @@ for i in s2:
         s3.append(i)
         
 print(s3)        
-       
+#good but just check if the requirnments are satisfied for the question    
         
         
         
